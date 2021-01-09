@@ -1,2 +1,0 @@
-# fisher
-about fisher  sample 
